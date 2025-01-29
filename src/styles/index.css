@@ -1,4 +1,7 @@
-
+li:hover > .visible {
+    display: block;
+}
+.visible {display: none;}
 /* 
 
     You can write your own styles here...
